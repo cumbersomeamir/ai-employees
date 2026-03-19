@@ -1,0 +1,16 @@
+{
+  "name": "ai-employees",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing webapp and API scaffold for ai-employees",
+  "scripts": {
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "lint:frontend": "npm --prefix frontend run lint",
+    "dev:backend": "npm --prefix backend run dev",
+    "start:backend": "npm --prefix backend run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
